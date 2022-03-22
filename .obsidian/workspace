@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ab8692bce38fb299",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b5431dfbab55ee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dnd/Moon on the Mountaintop.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c8fc475a6bd16f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d85f2f0d1098623f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d55890e4abb6716d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fda49e9f4c2fc786",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4116a0a599a16603",
+    "type": "split",
+    "children": [
+      {
+        "id": "be27a5d20014ef0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06790a19961050df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dnd/Moon on the Mountaintop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "92b5431dfbab55ee",
+  "lastOpenFiles": [
+    "Dnd/Moon on the Mountaintop.md",
+    "Dnd/Bracks Rees.md",
+    "Dnd/Rathkran Dhyrktelonis.md",
+    "Dnd/Skaarz Mystan.md",
+    "Dnd/Things to Remember.md",
+    "Dnd/Ghesh Skaarzborrough.md",
+    "Dnd/Honolulu.md",
+    "Dnd/Dogue Judy.md",
+    "Reichman University/From the Garage to the Nasdaq/2022-03-03.md",
+    "Untitled.md"
+  ]
+}
